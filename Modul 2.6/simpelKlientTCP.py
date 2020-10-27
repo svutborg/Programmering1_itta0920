@@ -16,7 +16,7 @@ print("Kører klienten\n")
 
 skt = socket.socket() # Laver en socket
 
-host = "10.31.128.105" # Dette er IP-adressen for Raspberry Pi
+host = "192.168.68.132" # Dette er IP-adressen for Raspberry Pi
 port = 3000
 
 skt.connect((host, port))
