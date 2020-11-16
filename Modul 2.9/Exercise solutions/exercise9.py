@@ -10,8 +10,5 @@ lande = []
 with open("Lande.csv", "r", newline="\n", encoding="utf-8") as fileObject:
 	csv_dict_reader = csv.DictReader(fileObject)
 
-	#header = csv_dict_reader.fieldnames
-	#csv_dict_writer.writeheader()
-
 	for land in csv_dict_reader:
 		lande.append(dict(land))
