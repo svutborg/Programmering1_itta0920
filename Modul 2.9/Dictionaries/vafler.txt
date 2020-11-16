@@ -1,0 +1,6 @@
+Sukker,1
+Æg,1
+Vand,3
+Mel,4
+Bagepulver,2
+Smør,125
