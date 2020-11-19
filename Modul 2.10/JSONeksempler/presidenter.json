@@ -1,0 +1,23 @@
+{
+	"Donald Trump": {
+		"Parti": "Republikaner",
+		"Valgperiode": {
+			"start\u00e5r": 2016,
+			"slut\u00e5r": null
+		}
+	},
+	"Barack Obama": {
+		"Parti": "Demokrat",
+		"Valgperiode": {
+			"start\u00e5r": 2008,
+			"slut\u00e5r": 2016
+		}
+	},
+	"George W. Bush": {
+		"Parti": "Republikaner",
+		"Valgperiode": {
+			"start\u00e5r": 2000,
+			"slut\u00e5r": 2008
+		}
+	}
+}
